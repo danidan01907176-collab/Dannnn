@@ -1,4 +1,7 @@
-```css
+/* =========================
+   RESET
+========================= */
+
 * {
     margin: 0;
     padding: 0;
@@ -716,6 +719,7 @@ footer p {
     }
 }
 
+
 @media (max-width: 650px) {
 
     nav {
@@ -767,6 +771,7 @@ footer p {
     }
 }
 
+
 @media (max-width: 400px) {
 
     .symbol {
@@ -779,6 +784,4 @@ footer p {
     .card-image {
         height: 430px;
     }
-}
-```
-          
+    }
