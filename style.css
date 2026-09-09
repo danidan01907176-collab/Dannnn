@@ -1,7 +1,4 @@
-/* =========================
-   RESET
-========================= */
-
+```css
 * {
     margin: 0;
     padding: 0;
@@ -669,11 +666,13 @@ footer p {
 @keyframes fadeUp {
     from {
         opacity: 0;
+
         transform: translateY(30px);
     }
 
     to {
         opacity: 1;
+
         transform: translateY(0);
     }
 }
@@ -784,4 +783,6 @@ footer p {
     .card-image {
         height: 430px;
     }
-    }
+}
+```
+   
